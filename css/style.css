@@ -1,0 +1,14 @@
+body {
+	-webkit-user-select: none;
+	overflow: hidden;
+}
+button {
+	padding: 5px 20px;
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	z-index: 10000000;
+}
+div {
+	position: absolute;
+}
