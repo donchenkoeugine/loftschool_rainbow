@@ -5,9 +5,15 @@ body {
 button {
 	padding: 5px 20px;
 	position: absolute;
+	z-index: 10000000;
+}
+#create {
 	left: 10px;
 	top: 10px;
-	z-index: 10000000;
+}
+#save {
+	left: 10px;
+	top: 50px;
 }
 div {
 	position: absolute;
